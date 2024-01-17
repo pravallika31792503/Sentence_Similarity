@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+matplotlib
+seaborn
+scikit-learn
+
+
