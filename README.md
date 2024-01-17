@@ -1,6 +1,6 @@
 # Sentence_Similarity
 ## Software And Tools Requirements
 # Github Account
-# HerokuAccount
+# AWS Account
 # VSCodeIDE
 # GitCLI
