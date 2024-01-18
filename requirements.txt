@@ -6,6 +6,5 @@ faiss-cpu
 matplotlib
 seaborn
 scikit-learn
-gunicorn
 
 
